@@ -1,0 +1,9 @@
+{
+	"description": "Runs lists of shell commands in parallel.",
+	"license": "MIT",
+	"authors": [
+		"Michael Fadely"
+	],
+	"copyright": "Copyright © 2018, Michael Fadely",
+	"name": "runlist",
+}
